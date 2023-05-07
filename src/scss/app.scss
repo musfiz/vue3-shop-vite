@@ -1,0 +1,9 @@
+@import './_variables';
+@import './_mixins';
+@import './style';
+
+// Frontend all page scss
+
+@import './frontend/layouts/header';
+@import './frontend/layouts/menubar';
+@import './frontend/homepage';

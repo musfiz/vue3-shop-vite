@@ -1,0 +1,14 @@
+.content-wrapper{
+    width: calc(100% - 230px);
+    .content-slider{
+        margin: 10px;
+        .slider{
+            .swiper-slide{
+                img{
+                    width: 100%;
+                    height: auto;
+                }
+            }
+        }
+    }
+}
